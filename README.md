@@ -20,7 +20,9 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/a7med-hassaan" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<pre align="center" width="40" >
+<a href="#" title="Twitter"><img src="/imgs/twitter.png" width="40" height="40" ></a>    <a href="https://www.facebook.com/ahmed.hassaan130" title="Facebook"><img src="/imgs/facebook.png" width="40" height="40" ></a>    <a href="https://www.instagram.com/a7med_hassaan.1/" title="Instagram"><img src="/imgs/instagram.png" width="40" height="40" ></a>   <a href="https://www.youtube.com/channel/UC1Lp_tGKfyLMNd9Q1AgvQ9Q" title="YouTube"><img src="/imgs/youtube.png" width="40" height="40" ></a></pre>
+<p align="center" style="color:grey" >© 2020 MASK</p>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
